@@ -1,4 +1,6 @@
-add a quote here
+Removed that quote
 
 I like Green, do you
+
+Here are some new changes.
 
