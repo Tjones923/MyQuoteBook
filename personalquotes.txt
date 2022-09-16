@@ -6,3 +6,4 @@ Here are some new changes.
 
 Oh yay another one
 
+adding new change on remote repo directly (normally would be done by someone else pushing to remote)
